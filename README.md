@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="C++" width="25" height="25" />
 <img src="https://github.com/yungtimofey/yungtimofey/assets/72038900/f818b8c6-0fce-4f2c-967a-69430ddf9080" alt="Postgres" width="25" height="25" />
-<img src="https://github.com/yungtimofey/yungtimofey/assets/72038900/f818b8c6-0fce-4f2c-967a-69430ddf9080" alt="Kafka" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/1b8f5561d14ba9b8cf760c0df2fe56338cdcdbb3/logos/kafka-icon.svg" alt="Kafka" width="25" height="25" />
 </p>
 
 
