@@ -7,7 +7,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
   </a>
   <a href="stars6392@gmail.com" target="_blank">
-      <img src="[https://cdn-icons-png.flaticon.com/512/145/145813.png](https://i.pinimg.com/originals/9b/d0/cf/9bd0cf4bb11e32c2f2db7fef4af6ab7f.jpg)" width="40" height="40" alt="gmail"/>
+      <img src="![image](https://github.com/yungtimofey/yungtimofey/assets/72038900/3345828b-0068-4c19-84b8-62180b12ca6e)" width="40" height="40" alt="gmail"/>
   </a>
 </div>
 
