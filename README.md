@@ -3,8 +3,8 @@
 ### 🤝 Мои контакты:
 
 <div id="badges">
-  <a href="https://stars6392@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" width="40" height="40" alt="gmail"/>
+  <a href="[https://stars6392@gmail.com](https://vk.com/id745006378)" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk"/>
   </a>
   <a href="https://t.me/EasternSlav" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
